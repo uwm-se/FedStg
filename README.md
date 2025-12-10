@@ -65,3 +65,10 @@ Contains saved numerical logs from a complete federated run:
 ### **accuracy.png**
 Plot of the accuracy curve produced during training.
 
+## 🚀 Running the Code
+
+## Start the server
+python server.py
+
+## Start the client client
+python client.py
