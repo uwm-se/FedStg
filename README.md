@@ -10,7 +10,7 @@ This repository contains the complete implementation of an adaptive Federated Le
 
 The project is fully self-contained within the following files:
 
-- Accuracy.png
+- accuracy.png
 - client.py
 - server.py
 - model.py
@@ -62,7 +62,7 @@ Contains saved numerical logs from a complete federated run:
 
 ---
 
-### **Accuracy.png**
+### **accuracy.png**
 Plot of the accuracy curve produced during training.
 
 ## 🚀 Running the Code
