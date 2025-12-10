@@ -62,7 +62,7 @@ Contains saved numerical logs from a complete federated run:
 
 ---
 
-### **accuracy.png**
+### **Accuracy.png**
 Plot of the accuracy curve produced during training.
 
 ## 🚀 Running the Code
